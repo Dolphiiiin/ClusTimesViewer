@@ -9,7 +9,8 @@ https://github.com/Dolphiiiin/ClusTimesViewer/releases
 
 # ClusTimes-Viewerの設置方法
 
- - [project foloder] `Asset/prefabs/`にある、ClusTimes Viewerを設置
+ - [project foloder] `Asset/prefabs/`にある、ClusTimes Viewerを設置  
+ 
 ![](https://cdn.discordapp.com/attachments/681123942676561950/842705078535585852/unknown.png)
 
  - 設置したClusTimes Viewer内のClusTimes Positionによって、モニターの位置を変更できます
@@ -17,7 +18,7 @@ https://github.com/Dolphiiiin/ClusTimesViewer/releases
 
 もしもモニターの位置がおかしい、表示されない時には、
 `PlayerLocalUI/SafeArea`内にある`ClusTimes - LocalUI`のインスペクターから、
-各ConstraintのZeroボタンを押してください
+各ConstraintのZeroボタンを押してください  
 ![](https://cdn.discordapp.com/attachments/681123942676561950/842660098677538857/settransformobject.png)
 
 モニタは、コントローラのボタンを押した後に表示されます。モニタは、個々のユーザーにしか見えないように設定されています。（背景に重複しても、ボタンをおしたユーザーが一時的に重複するだけになっています。）

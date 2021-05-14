@@ -1,4 +1,5 @@
-# ClusTimesViewer＃ClusTimes を設置してくれてありがとうございます
+# ClusTimesViewer
+＃ClusTimes を設置してくれてありがとうございます
 
 ClusTimesは、clusterのユーザー有志による草の根新聞メディアです。 このClusTimes Viewerをワールドに設置すると、自動的にClusTimesの最新版を読み込み、ワールドで記事を表示します。 
 
